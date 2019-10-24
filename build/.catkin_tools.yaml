@@ -1,0 +1,6 @@
+devel_space: /home/fuelfighter/catkin_ws/src/ultrasonic_node/devel
+install: false
+install_space: /home/fuelfighter/catkin_ws/src/ultrasonic_node/install
+profile: default
+source_space: /home/fuelfighter/catkin_ws/src/ultrasonic_node/src
+workspace: /home/fuelfighter/catkin_ws/src/ultrasonic_node
